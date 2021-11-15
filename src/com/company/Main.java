@@ -448,7 +448,7 @@ public class Main {
         }
 
         */
-       // task is to hack password: 1234 using cycles or whenever you can mention
+       // task is to hack password: 1234 using cycles or whenever you can mention.
         /*
          Scanner in = new Scanner(System.in);
         String mass1[]= new String[5];
